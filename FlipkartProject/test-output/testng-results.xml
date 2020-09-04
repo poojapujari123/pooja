@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53145" started-at="2020-08-31T19:19:08 IST" finished-at="2020-08-31T19:20:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53145" started-at="2020-08-31T19:19:08 IST" finished-at="2020-08-31T19:20:01 IST">
+      <class name="com.testScripts.SearchTV">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testScripts.SearchTV@49fc609f]" name="login" is-config="true" duration-ms="23911" started-at="2020-08-31T19:19:08 IST" finished-at="2020-08-31T19:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tv1()[pri:0, instance:com.testScripts.SearchTV@49fc609f]" name="tv1" duration-ms="1480" started-at="2020-08-31T19:19:32 IST" finished-at="2020-08-31T19:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tv1 -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testScripts.SearchTV@49fc609f]" name="logout" is-config="true" duration-ms="2273" started-at="2020-08-31T19:19:33 IST" finished-at="2020-08-31T19:19:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testScripts.SearchTV@49fc609f]" name="login" is-config="true" duration-ms="20572" started-at="2020-08-31T19:19:36 IST" finished-at="2020-08-31T19:19:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tv()[pri:1, instance:com.testScripts.SearchTV@49fc609f]" name="tv" duration-ms="1463" started-at="2020-08-31T19:19:56 IST" finished-at="2020-08-31T19:19:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tv -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testScripts.SearchTV@49fc609f]" name="logout" is-config="true" duration-ms="3378" started-at="2020-08-31T19:19:58 IST" finished-at="2020-08-31T19:20:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.testScripts.SearchTV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
